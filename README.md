@@ -74,3 +74,15 @@ Visualizations (pair plot) illustrated how different Iris species can be disting
 
 
 This exploratory analysis provides a solid foundation for further statistical modeling or machine learning applications, such as classification algorithms to predict Iris species based on feature measurements.
+
+
+
+
+
+
+
+
+
+
+
+
